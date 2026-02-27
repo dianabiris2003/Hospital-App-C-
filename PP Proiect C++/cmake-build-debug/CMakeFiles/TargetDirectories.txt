@@ -1,0 +1,3 @@
+C:/Facultate C/PP Proiect C++/cmake-build-debug/CMakeFiles/PP_Proiect_C__.dir
+C:/Facultate C/PP Proiect C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Facultate C/PP Proiect C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
